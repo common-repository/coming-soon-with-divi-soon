@@ -1,0 +1,8 @@
+@media only screen and (max-width: 600px) {
+    #page-container.soon-section{ 
+      padding-top:0!important;
+    }
+  }
+  #page-container{
+    display: none;
+  }
